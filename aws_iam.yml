@@ -4,6 +4,7 @@
     - 'vars/groups.yml'
     - 'vars/users.yml'
   vars:
+    group_opts: "{{group_opts}}"
     sidpasswd: "{{ password }}"
   gather_facts: False
   tasks:
