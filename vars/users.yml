@@ -1,8 +1,8 @@
 ---
 users:
-  - name: jrod1
+  - name: jrod-20191107-1
     aws_groups: "sacramento, fresno, indio"
-  - name: jrod2
+  - name: jrod-20191107-2
     aws_groups: "losangeles, sanfransisco, napa"
-  - name: jrod3
+  - name: jrod-20191107-3
     aws_groups: "palmsprings, indio, sandiego"
